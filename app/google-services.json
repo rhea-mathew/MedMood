@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088057770571",
+    "project_id": "medmood-b6195",
+    "storage_bucket": "medmood-b6195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088057770571:android:ec161371cc8db4731a83ce",
+        "android_client_info": {
+          "package_name": "com.example.medmood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088057770571-brgbrqcb1bm1k9u7a2pqmna6pso25fqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcX40Fb-nBStgCLRFVkIS85IcqRarpEpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088057770571-brgbrqcb1bm1k9u7a2pqmna6pso25fqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
